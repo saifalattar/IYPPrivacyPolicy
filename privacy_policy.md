@@ -1,4 +1,5 @@
-**Privacy Policy**
+Privacy Policy
+--------------
 
 **IYP co.** built the IYP app as a Free app. This SERVICE is provided by **IYP co.** at no cost and is intended for use as is.
 
