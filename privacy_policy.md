@@ -1,4 +1,4 @@
-Privacy Policy
+**Privacy Policy**
 --------------
 
 **IYP co.** built the IYP app as a Free app. This SERVICE is provided by **IYP co.** at no cost and is intended for use as is.
@@ -57,7 +57,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-08-31
+This policy is effective as of 2023-09-31
 
 ### Contact Us
 
